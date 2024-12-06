@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nice to meet you, here is yiyiOfficial. 也可以叫我依伊，这里会时不时产出一些东西，你也可以去我的[个人主页](https://yiyiofficial.top)看看，咕咕~~~。
+Nice to meet you, here is yiyiOfficial. 也可以叫我依伊，这里会时不时产出一些东西。
 
 ![GithubData](https://github-readme-stats.vercel.app/api/?username=memory-yiyi&show_icons=true&theme=shadow_blue&locale=cn)
 
@@ -22,7 +22,7 @@ Nice to meet you, here is yiyiOfficial. 也可以叫我依伊，这里会时不�
 
 🔗 邮箱：yiyi_official@qq.com
 
-🔗 邮箱：yiyi_official@outlook.com ~~我会看这个邮箱的，真的，你要相信我😅~~
+🔗 邮箱：yiyi_official@outlook.com ~~我真的不怎么看这个邮箱的，真的，你要相信我😅~~
 
 🔗 BiliBili：[@依伊Official](https://space.bilibili.com/275568015)
 
